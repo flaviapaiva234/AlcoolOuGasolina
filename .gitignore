@@ -1,9 +1,6 @@
 *.iml
 .gradle
 
-# Created by https://www.toptal.com/developers/gitignore/api/kotlin,java,androidstudio
-# Edit at https://www.toptal.com/developers/gitignore?templates=kotlin,java,androidstudio
-
 ### Java ###
 # Compiled class file
 *.class
@@ -169,4 +166,4 @@ fabric.properties
 
 !/gradle/wrapper/gradle-wrapper.jar
 
-# End of https://www.toptal.com/developers/gitignore/api/kotlin,java,androidstudio
+# End of https://www.toptal.com/developers/gitignore/api/kotlin,androidstudio,java
